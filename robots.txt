@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ikan-cupang.eu.org/sitemap.xml
